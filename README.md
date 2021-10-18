@@ -1,2 +1,3 @@
-## This is my Portfolio Website
-www.shrutikumbhare.me
+## This is my Portfolio Website 💼
+
+Please visit: https://shrutikumbhare.github.io
